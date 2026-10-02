@@ -6,6 +6,10 @@ frontend/node_modules/
 .env.local
 backend/.env
 
+frontend/.gitignore
+pass
+
 
 dist/
 build/
+
